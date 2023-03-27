@@ -1,3 +1,3 @@
 # metacritic_datasets
 Dataset for AIDM 7350 Group Project
-<img width="259" alt="image" src="https://user-images.githubusercontent.com/113169589/227982904-9e605103-c62d-4c79-b87e-c5b6910c6188.png">
+<img width="186" alt="image" src="https://user-images.githubusercontent.com/113169589/227984151-822c14eb-783f-4427-8c43-a512f893905d.png">
