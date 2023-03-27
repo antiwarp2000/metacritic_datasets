@@ -6,10 +6,10 @@ Due to its large quantity of high-quality rating data and multiple dimensions, i
 :joystick: In AIDM 7350 Group Project, we mainly focus on the game rating.This repository provides specific web-crawling code and some data acquisition processes, different web-crawling code files target different webpage content.
 
 - Spider_every_year.py & Spider_every_game.py 
-
+&emsp;
 > For example, in 2023, by crawling all the URLs of each game in 2023 through the previous web page, visit and crawl further related data for each game URL.
 > The game data we crawl includes but is not limited to the following:
-
+&emsp;
 <div align=center>
 <img src="https://user-images.githubusercontent.com/113169589/227991570-a37f57fd-258c-4d1c-9af4-0045ef8a7d97.png" width="500px">
 </div>
@@ -19,14 +19,16 @@ Due to its large quantity of high-quality rating data and multiple dimensions, i
 
 > By accessing all media review page tags, obtain the ratings and evaluations of the game from the media and related individuals.
 
-
+&emsp;
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/113169589/227995033-f7786011-b0b6-4fa4-afd2-9a4fb5195055.png" width="600px">
  </div>
-
+&emsp;
 <div align=center>
 <img src="https://user-images.githubusercontent.com/113169589/227997523-2280cd01-f2fe-4a1a-80dc-8e00b077934f.png" width="600px">
    </div>
+   
+&emsp;
 
-*In actual operation, some code will be slightly adjusted
+_In actual operation, some code will be slightly adjusted_
