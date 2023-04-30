@@ -3,7 +3,7 @@
 Due to its large quantity of high-quality rating data and multiple dimensions, it has good research value.
 
 
-:joystick: In AIDM 7350 Group Project, we mainly focus on the game rating.This repository provides specific web-crawling code and some data acquisition processes, different web-crawling code files target different webpage content.
+:joystick: In AIDM 7360 Group Project, we mainly focus on the game rating.This repository provides specific web-crawling code and some data acquisition processes, different web-crawling code files target different webpage content.
 
 - Spider_every_year.py & Spider_every_game.py 
 &emsp;
